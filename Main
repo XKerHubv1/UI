@@ -119,7 +119,7 @@ function create:Win()
     PageTap.BackgroundTransparency = 1
     PageTap.BorderSizePixel = 0
     PageTap.Position = UDim2.new(0.189873412, 0, 0, 0)
-    PageTap.Size = UDim2.new(0, 520, 0, 136)
+    PageTap.Size = UDim2.new(0, 320, 0, 56)
 
     UIGradient_PageTap.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(230, 0, 39)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 35, 138))}
     UIGradient_PageTap.Parent = PageTap
